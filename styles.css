@@ -1,0 +1,26 @@
+#text1{
+ background-color: dodgerblue;
+  font-weight: 20px;
+  width: 50%;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+div {
+  background-color: tomato;
+  font-size: 2rem;
+  padding: .5rem;
+}
+
+#text{
+    color: white;
+    font-size: 30px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    background-color: grey;
+    text-align: center;
+    padding: 2rem;
+}
